@@ -69,12 +69,6 @@ interview-prep-assistant/
 └── .gitignore               # Git ignore file
 ```
 
-## Future Improvements
-
-- **Add More Question Types**: Expand question generation to cover more types of interview questions (technical, situational, etc.).
-- **Multilingual Support**: Enable the system to support multiple languages for a more diverse user base.
-- **Analytics Dashboard**: Provide analytics to track progress over time in interview preparation.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
