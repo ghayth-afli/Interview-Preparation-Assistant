@@ -1,0 +1,5 @@
+# Ignore the sensitive JSON file
+interviewbot-442008-02c124ff03cc.json
+
+# Ignore the .env file (contains sensitive environment variables)
+.env.env
