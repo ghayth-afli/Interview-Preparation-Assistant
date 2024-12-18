@@ -67,7 +67,7 @@ interview-prep-assistant/
 ├── Pipfile.lock             # Pipenv lock file
 ├── README.md                # Project overview
 └── .gitignore               # Git ignore file
-
+```
 
 ## Future Improvements
 
