@@ -30,12 +30,12 @@ To set up the project locally, follow these steps:
 3. **Install Pipenv (if you don't have it installed already):**:
    ```bash
    pip install pipenv
-4. **Install the dependencies using Pipenv:**:
-   ```bash
-   pipenv install
-5. **Activate the virtual environment:**:
+4. **Activate the virtual environment:**:
    ```bash
    pipenv shell
+5. **Install the dependencies using Pipenv:**:
+   ```bash
+   pipenv install
 6. **Set up environment variables: Create a .env file in the root directory and add your environment variables:**:
    ```env
    GOOGLE_API_KEY=your_google_api_key
