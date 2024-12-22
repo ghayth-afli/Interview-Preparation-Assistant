@@ -45,7 +45,7 @@ To set up the project locally, follow these steps:
 
 1. **Run the Streamlit app**:
    ```bash
-   streamlit run app/main.py
+   streamlit run main.py
 2. **Upload a document** (PDF or Word) containing interview-related content.
   
 3. **Generate a Question**: Click the "Generate a Question" button to receive a personalized interview question based on the uploaded document.
