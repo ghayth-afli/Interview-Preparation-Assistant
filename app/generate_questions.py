@@ -29,7 +29,7 @@ def generate_question(context_instruction="Generate a behavioral interview quest
     # Fix the chain by ensuring `RunnablePassthrough` wraps the input properly
     rag_chain = (
         {
-            "context_instruction": RunnablePassthrough()  # Wraps the input context
+            "context_instruction": RunnablePassthrough()
         }
         | custom_question_prompt
         | llm
